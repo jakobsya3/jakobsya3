@@ -1,3 +1,7 @@
+<p align="center">
+  <img src="assets/banner.svg" alt="HALLO WORLD!" />
+</p>
+
 ## Hi, I'm Jakob 👋
 
 Computer Science student based in Duisburg (NRW, Germany) with a focus on Java and Python, currently building solid fundamentals in software development and databases.
