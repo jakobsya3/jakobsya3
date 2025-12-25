@@ -29,5 +29,4 @@ Computer Science student based in Duisburg (NRW, Germany) with a focus on Java a
 <img alt="Top languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=<dein-username>&layout=compact&hide_border=true" />
 
 ### Projects
-- 🔹 **<Projekt 1 Name>** — <1 Satz Beschreibung> → https://github.com/<dein-username>/<repo1>
-- 🔹 **<Projekt 2 Name>** — <1 Satz Beschreibung> → https://github.com/<dein-username>/<repo2>
+coming soon !
