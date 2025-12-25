@@ -1,4 +1,4 @@
-## Hi there 👋
+## Hi there, wellcome to my GitHub 👋
 
 <!--
 **jakobsya3/jakobsya3** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
