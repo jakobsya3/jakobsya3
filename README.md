@@ -2,10 +2,8 @@
 
 Computer Science student based in Duisburg (NRW, Germany) with a focus on Java and Python, currently building solid fundamentals in software development and databases.
 
-<!-- Badges (edit links) -->
 [![GitHub](https://img.shields.io/badge/-GitHub-000?style=flat&logo=github&logoColor=white)](https://github.com/<dein-username>)
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=linkedin&logoColor=white)](<dein-linkedin-url>)
-[![Email](https://img.shields.io/badge/-Email-c14438?style=flat&logo=gmail&logoColor=white)](mailto:<deine-mailadresse>)
+[![Email](https://img.shields.io/badge/-Email-c14438?style=flat&logo=gmail&logoColor=white)](mailto:yaqoup.aldagher@gmail.com)
 
 &nbsp;
 
@@ -14,7 +12,7 @@ Computer Science student based in Duisburg (NRW, Germany) with a focus on Java a
 - 💻 Main focus: Java, OOP, clean code, and databases (SQL).
 - 🧰 Tools: IntelliJ IDEA, Git, PostgreSQL (optional: add what you actually use).
 - 🌱 Currently learning: <z.B. OOP, SQL joins, JDBC, Testing mit JUnit>.
-- 🤝 Open to: student job (Werkstudent) / part-time opportunities in Duisburg area.
+- 📫 How to reach me: [yaqoup.aldagher@gmail.com](mailto:yaqoup.aldagher@gmail.com)
 
 ### Languages & Tools
 <p>
