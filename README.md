@@ -1,6 +1,5 @@
-<p align="center">
-  <img src="assets/banner.svg" alt="HALLO WORLD!" />
-</p>
+![HALLO WORLD!](assets/banner.svg)
+
 
 ## Hi, I'm Jakob 👋
 
